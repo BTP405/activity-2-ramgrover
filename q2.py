@@ -48,4 +48,4 @@ plt.title('My first graph!')
     
 # function to show the plot 
 plt.show() 
-plt.savefig('snowfallbyharnoor.png')
+plt.savefig('snowfall.png')
